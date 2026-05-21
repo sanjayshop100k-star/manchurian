@@ -104,7 +104,7 @@ export default function Reviews() {
 
       <div className="mt-8 text-center">
         <motion.a
-          href="https://search.google.com/local/writereview?placeid=ChIJN1t_tDeuEmsRUsoyG83frY4"
+          href="https://maps.google.com/?placeid=ChIJ30v47bFpAjoR97-P3KkWqks&action=write-review](https://maps.google.com/?placeid=ChIJl98kBABP4DsRfRr3WvM-r7o"
           target="_blank"
           rel="noopener noreferrer"
           whileTap={{ scale: 0.95 }}
