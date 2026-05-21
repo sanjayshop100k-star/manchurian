@@ -97,7 +97,7 @@ export default function Hero() {
         >
           <button className="group relative flex h-16 w-full items-center justify-center overflow-hidden rounded-full border-4 border-black bg-red-500 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-transform active:translate-x-1 active:translate-y-1 active:shadow-none">
             <span className="relative z-10 font-montserrat text-lg font-black tracking-tighter text-white uppercase">
-              Crafting Visual Stories
+              Eat, Laugh, & Enjoy With Us 
             </span>
           </button>
         </motion.div>
